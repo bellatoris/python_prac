@@ -140,7 +140,6 @@ print(a())
 print(b())
 
 # Lambda
-
 def edit_story(words, func):
     for word in words:
         print(func(word))
